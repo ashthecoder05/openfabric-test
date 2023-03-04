@@ -1,0 +1,108 @@
+Philoponus' criticism of Aristotelian principles of physics served as an inspiration for Galileo Galilei ten centuries later happened  during the Scientific Revolution.
+Modern science is commonly divided into three major branches: natural science, social science, and formal science.
+Data Release 9 (DR9) offers the latest data from the Sloan Digital Sky Survey. Data Release 9 is the first release of the spectra from the SDSS-III's Baryon Oscillation Spectroscopic Survey (BOSS), which includes more than 800,000 spectra over 3,300 square degrees of sky, observed with the new 1,000-fiber BOSS spectrograph.
+Data Release 9 also includes all imaging and spectra from prior SDSS data releases, and provides corrected astrometry for the imaging from Data Release 8.DR9 also includes better stellar parameter estimates, provided by an updated SEGUE Stellar Parameter Pipeline (SSPP). 
+Sir Isaac Newton PRS (25 December 1642 – 20 March 1726/27)[a] was an English mathematician, physicist, astronomer, alchemist, theologian, and author who was described in his time as a "natural philosopher"  and He was a key figure in the philosophical revolution known as the Enlightenment also and   His book Philosophiæ Naturalis Principia Mathematica (Mathematical Principles of Natural Philosophy), first published in 1687, established classical mechanics and  He also made seminal contributions to optics, and shares credit with German mathematician Gottfried Wilhelm Leibniz for developing infinitesimal calculus also In the Principia, he formulated the laws of motion and universal gravitation that formed the dominant scientific viewpoint for centuries until it was superseded by the theory of relativity. He  used his mathematical description of gravity to derive Kepler's laws of planetary motion, account for tides, the trajectories of comets, the precession of the equinoxes and other phenomena, eradicating doubt about the Solar System's heliocentricity. He demonstrated that the motion of objects on Earth and celestial bodies could be accounted for by the same principles. his  inference that the Earth is an oblate spheroid was later confirmed by the geodetic measurements of Maupertuis, La Condamine, and others, convincing most European scientists of the superiority of  mechanics over earlier systems.
+He built the first practical reflecting telescope and developed a sophisticated theory of colour based on the observation that a prism separates white light into the colours of the visible spectrum. His work on light was collected in his highly influential book Opticks, published in 1704. He also formulated an empirical law of cooling, made the first theoretical calculation of the speed of sound, and introduced the notion of a  fluid. In addition to his work on calculus, as a mathematician he contributed to the study of power series, generalised the binomial theorem to non-integer exponents, developed a method for approximating the roots of a function, and classified most of the cubic plane curves and alsowas a fellow of Trinity College and the second Lucasian Professor of Mathematics at the University of Cambridge. He was a devout but unorthodox Christian who privately rejected the doctrine of the Trinity. He refused to take holy orders in the Church of England, unlike most members of the Cambridge faculty of the day. Beyond his work on the mathematical sciences, he dedicated much of his time to the study of alchemy and biblical chronology, but most of his work in those areas remained unpublished until long after his death. Politically and personally tied to the Whig party, he served two brief terms as Member of Parliament for the University of Cambridge, in 1689–1690 and 1701–1702. He was knighted by Queen Anne in 1705 and spent the last three decades of his life in London, serving as Warden (1696–1699) and Master (1699–1727) of the Royal Mint, as well as president of the Royal Society (1703–1727).
+Sun is the star of planet.
+Chemistry is the study of matter and how it behaves It is a physical science that deals with the composition, structure, and properties of substances . Chemistry helps us to understand the world around us, from the food we eat to the air we breathe  Chemists use a variety of tools and techniques to investigate and manipulate chemical reactions . Chemistry plays a crucial role in many fields, including medicine, engineering, and materials science . At its core, chemistry is about understanding how atoms and molecules interact with each other . Chemists study everything from the smallest particles to entire chemical systems . Chemistry is a constantly evolving field, with new discoveries and applications being made all the time By studying chemistry, we can gain a deeper appreciation for the complexity and beauty of the natural world .
+Water is a transparent, tasteless, and odorless liquid that is essential for all forms of life on Earth It is a chemical compound made up of two hydrogen atoms and one oxygen atom, with the chemical formula H2O Water is found in various forms, including oceans, rivers, lakes, and glaciers, as well as in the atmosphere and underground It is the most common substance on Earth and covers about 71% of its surface Water has many unique properties, including its ability to dissolve a wide variety of substances, its high surface tension, and its capacity to absorb heat. It is also essential for many chemical reactions and is used for various purposes, such as drinking, irrigation, transportation, and power generation Overall, water is a critical resource for the survival and well-being of all living organisms on Earth.
+Air: Air is the mixture of gases that make up the Earth's atmosphere It is composed mainly of nitrogen (about 78%) and oxygen (about 21%), with small amounts of other gases such as carbon dioxide, argon, and neon.
+
+Water: Water is a transparent, tasteless, and odorless liquid that is essential for all forms of life on Earth It is a chemical compound made up of two hydrogen atoms and one oxygen atom, with the chemical formula H2O.
+
+Fire: Fire is a chemical reaction that occurs when fuel (such as wood or gasoline) is combined with oxygen in the presence of heat or an ignition source It produces heat, light, and various gases, including carbon dioxide and water vapor.
+
+Solar system: The solar system is the collection of planets, moons, asteroids, comets, and other objects that orbit around the sun  It includes eight planets, such as Earth and Mars, and their respective moons.
+
+Tree: A tree is a perennial plant that has a single stem or trunk, supporting branches and leaves Trees are important for providing oxygen, shade, and habitat for animals.
+
+Birds: Birds are warm-blooded, feathered animals with beaks and wings They are known for their ability to fly and are found in a wide range of habitats, from forests to deserts.
+
+Animal: Animals are multicellular organisms that are capable of movement and have specialized organs and tissues They can be found in virtually every environment on Earth and play important roles in ecosystems.
+
+Velocity: Velocity is a measure of an object's speed and direction It is defined as the rate of change of an object's position with respect to time.
+
+Wind: Wind is the movement of air from an area of high pressure to an area of low pressure It can be caused by differences in temperature, pressure, and other factors, and can have a significant impact on weather patterns.
+
+Gravitational: Gravitational refers to the force of attraction that exists between two objects due to their mass It is one of the fundamental forces of nature and plays a key role in determining the behavior of objects in the universe.
+
+Wheat: Wheat is a type of cereal grain that is widely cultivated around the world It is an important source of food for humans and livestock and is used to make a variety of products, including bread, pasta, and breakfast cereals.
+
+Food: Food is any substance that is consumed by living organisms to provide energy and nutrients It can come from a variety of sources, including plants, animals, and fungi, and can be processed in many ways.
+
+Shark: A shark is a type of fish that has a cartilaginous skeleton and several rows of sharp teeth They are found in all of the world's oceans and play important roles in marine ecosystems.
+
+Fish: Fish are a diverse group of aquatic animals that have a backbone and breathe through gills They are found in freshwater and saltwater environments and are an important source of food for humans and other animals.
+
+Prism: A prism is a transparent optical element with flat, polished surfaces that refract light It is often used to split white light into its component colors and is important in the study of optics.
+
+Scientist: A scientist is a person who studies and conducts research in a particular field of science, such as chemistry, physics, or biology They use the scientific method to ask questions, design experiments, and gather data to better understand the natural world.
+Fruit: A fruit is the edible reproductive part of a flowering plant, typically containing seeds. Fruits come in many shapes, sizes, and colors, and are an important source of nutrients in the human diet.
+
+Mango: Mango is a tropical fruit that is native to South Asia but is now grown in many parts of the world It is a juicy, sweet fruit with a distinctive flavor and aroma.
+
+Jackfruit: Jackfruit is a tropical fruit that is native to South and Southeast Asia but is now grown in many parts of the world It is the largest tree-borne fruit and has a sweet, fruity flavor.
+
+Carbon: Carbon is a chemical element with the symbol C and atomic number 6It is a nonmetallic element that occurs in many forms, including diamond, graphite, and charcoal. Carbon is essential for life and is the basis of many important molecules, such as proteins and DNA.
+
+Metal: Metal is a class of elements that are characterized by their ability to conduct heat and electricity, as well as their luster, malleability, and ductility. Metals are used for a wide variety of purposes, from construction and manufacturing to electronics and transportation.
+
+Jupiter: Jupiter is the fifth planet from the sun and the largest planet in the solar system It is a gas giant with a thick atmosphere of hydrogen and helium and is known for its Great Red Spot, a giant storm that has been raging for hundreds of years. Jupiter has many moons, including the four largest known as the Galilean moons.
+
+Agriculture: Agriculture is the practice of cultivating soil, raising animals, and producing food, fiber, and other products. It encompasses a wide range of activities, from planting crops and caring for livestock to processing and distributing food.
+
+Flower: A flower is the reproductive structure of a plant, typically consisting of petals, sepals, stamens, and pistils. Flowers come in many shapes, colors, and sizes, and are often used for decoration or as gifts.
+
+Frog: A frog is a cold-blooded amphibian with a smooth, moist skin, long hind legs adapted for jumping, and a short, wide body. Frogs live in a variety of habitats, from aquatic to terrestrial, and are known for their distinctive croaking calls.
+
+Lion: A lion is a large, carnivorous mammal that is native to Africa and some parts of Asia. It is known for its distinctive mane and powerful roar, and is often called the "king of the jungle."
+
+Cat: A cat is a small, carnivorous mammal that is often kept as a pet. It has a long, flexible body, sharp claws, and keen senses, and is known for its agility and independent nature.
+
+Dog: A dog is a domesticated mammal that is often kept as a pet. It is a member of the Canidae family, which also includes wolves and foxes, and is known for its loyalty, intelligence, and ability to form strong bonds with humans.
+Dinosaur: A dinosaur is a group of extinct reptiles that lived millions of years ago. They were some of the largest creatures to ever walk the earth, and are known for their distinctive features, such as sharp teeth, long tails, and bony plates.
+
+Hot: Hot refers to a high temperature or a feeling of warmth. It is often used to describe weather, food, or beverages.
+
+Humid: Humid refers to a high level of moisture in the air. It is often associated with hot, tropical climates and can make the air feel sticky and uncomfortable.
+
+Geography: Geography is the study of the earth's physical features and human activity on the planet. It includes topics such as landforms, climate, population, and culture.
+
+Population: Population refers to the number of people living in a particular area or country. It is an important factor in many fields, such as economics, politics, and healthcare.
+
+Ice: Ice is a solid form of water that is formed when water freezes. It is often found in colder climates and can be used for a variety of purposes, such as preserving food and drinks or creating artificial skating rinks.
+
+Coal: Coal is a fossil fuel that is formed from the remains of dead plants and animals. It is a non-renewable resource and is used to produce energy and electricity.
+
+Tiger: A tiger is a large, carnivorous mammal that is native to Asia. It is known for its distinctive orange coat with black stripes and is often considered a symbol of strength and power.
+
+Bridge: A bridge is a structure that is built to span a physical obstacle, such as a river or valley. It is often used to connect two areas that are separated by water or other natural barriers.
+
+People: People are human beings who live on earth. They come from a variety of cultures, backgrounds, and experiences and are the driving force behind many social, economic, and political systems.
+
+Puppies: Puppies are young dogs that are typically less than one year old. They are known for their playful, energetic nature and are often considered to be cute and adorable.
+
+kitten is a young cat that is typically less than one year old. They are known for their playful and affectionate nature, and are often kept as pets.
+
+Rose: A rose is a flowering plant that is known for its beautiful and fragrant blooms Roses come in many different colors and varieties, and are often used in bouquets, gardens, and as a symbol of love and romance.
+
+Camel: A camel is a large, even-toed ungulate with a humped back and long, curved neck Camels are native to the deserts of Asia and Africa, and are well-adapted to life in arid environments.
+
+Horse: A horse is a domesticated mammal that is often used for riding, racing, and other work Horses are known for their strength, speed, and beauty, and have played an important role in human history and culture.
+
+Donkey: A donkey is a domesticated mammal that is often used for work, such as carrying heavy loads Donkeys are known for their strong, sturdy build and can be found in many parts of the world.
+
+Cubs: Cubs are the young of certain species of animals, such as lions, tigers, and bears ßßThey are often playful and curious, and require a lot of care and protection from their parents.
+
+Short for Media Access Control, or MAC address. Known as a physical address and hardware address whose number is uniquely formatted in hexadecimal format and given to each computer or network device on a computer network.
+
+Image result for define malware
+Malware (short for “malicious software”) is a file or code, typically delivered over a network, that infects, explores, steals or conducts virtually any behavior an attacker wants
+
+Astronomy is one of the oldest natural sciences Early civilizations dating back before 3000 BCE, such as the Sumerians, ancient Egyptians, and the Indus Valley Civilisation, had a predictive knowledge and a basic awareness of the motions of the Sun, Moon, and stars
+
+Natural philosophy has its origins in Greece during the Archaic period (650 BCE – 480 BCE), when pre-Socratic philosophers like Thales rejected non-naturalistic explanations for natural phenomena and proclaimed that every event had a natural cause
+
+
+
